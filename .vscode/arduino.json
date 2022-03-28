@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "LED_Control.ino",
+    "programmer": "arduino:usbtinyisp",
+    "port": "COM1"
+}
