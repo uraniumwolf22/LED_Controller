@@ -1,6 +1,6 @@
 {
-    "board": "arduino:avr:uno",
-    "sketch": "LED_Control.ino",
+    "board": "Breadboard Arduino:avr:atmega328bb",
+    "sketch": "Proc2.ino",
     "programmer": "arduino:usbtinyisp",
     "port": "COM1"
 }
